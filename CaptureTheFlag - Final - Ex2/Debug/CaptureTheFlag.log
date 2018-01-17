@@ -1,0 +1,18 @@
+﻿  Utils.cpp
+  Step.cpp
+  Player.cpp
+  main.cpp
+  GameManager.cpp
+c:\users\yonat\dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\oop and cpp\capturetheflag - final - ex2\gamemanager.cpp(176): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+c:\users\yonat\dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\oop and cpp\capturetheflag - final - ex2\game.cpp(244): warning C4018: '<': signed/unsigned mismatch
+c:\users\yonat\dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\oop and cpp\capturetheflag - final - ex2\game.cpp(251): warning C4018: '<': signed/unsigned mismatch
+  FileUtils.cpp
+  FileHandler.cpp
+  Cell.cpp
+  Board.cpp
+c:\users\yonat\dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\oop and cpp\capturetheflag - final - ex2\board.cpp(359): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  Generating Code...
+c:\users\yonat\dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\oop and cpp\capturetheflag - final - ex2\player.cpp(200): warning C4715: 'Player::directionToChar': not all control paths return a value
+  CaptureTheFlag.vcxproj -> C:\Users\yonat\Dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\OOP AND CPP\CaptureTheFlag - Final - Ex2\Debug\CaptureTheFlag.exe
+  CaptureTheFlag.vcxproj -> C:\Users\yonat\Dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\OOP AND CPP\CaptureTheFlag - Final - Ex2\Debug\CaptureTheFlag.pdb (Partial PDB)

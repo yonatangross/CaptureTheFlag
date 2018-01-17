@@ -1,0 +1,12 @@
+﻿  Utils.cpp
+  Player.cpp
+  main.cpp
+  GameManager.cpp
+  Game.cpp
+c:\users\yonat\dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\oop and cpp\capturetheflag\capturetheflag - final - ex1\game.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\yonat\dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\oop and cpp\capturetheflag\capturetheflag - final - ex1\game.cpp(112): warning C4018: '<': signed/unsigned mismatch
+  Cell.cpp
+  Board.cpp
+  Generating Code...
+  CaptureTheFlag.vcxproj -> C:\Users\yonat\Dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\OOP AND CPP\CaptureTheFlag\CaptureTheFlag - Final - Ex1\Debug\CaptureTheFlag.exe
+  CaptureTheFlag.vcxproj -> C:\Users\yonat\Dropbox\לימודים\קורסי חובה במדעי המחשב - שלב ב\OOP AND CPP\CaptureTheFlag\CaptureTheFlag - Final - Ex1\Debug\CaptureTheFlag.pdb (Partial PDB)
